@@ -1,0 +1,12 @@
+body{
+background-image: url("mars.gif");
+background-size: cover;
+}
+canvas{
+    background-color: aliceblue;
+    border: 4px dashed white;
+    background-color: black;
+}
+h1{
+    color: #FFFFFF;
+}
